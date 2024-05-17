@@ -13,7 +13,6 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-<br>
   Resume about Domeld Manangan.
 </div>
 
@@ -63,12 +62,16 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  <br>
   Seatwork 2, Resume
 - Whats the purpose
+  <br>
   About myself and a personal resume
 - What are key components
+  <br>
   -
 - What technology used and how it is used
+  <br>
   -
 
 ### Key Components
@@ -115,6 +118,4 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
