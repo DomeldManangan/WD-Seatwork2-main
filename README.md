@@ -13,6 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
+<br>
   Resume about Domeld Manangan.
 </div>
 
