@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/DomeldManangan">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/LegenX Logo.png" alt="LegenX" width="200" height="170">
+    <img src="./assets/img/LegenX Logo.png" alt="LegenX" width="auto">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">WD-DomeldManangan Resume</h3>
